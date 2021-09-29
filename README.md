@@ -1,5 +1,7 @@
 # Discord-Dictionary-BOT
 Discord BOT to search entries from a Google Sheets dictionary. It was made for a Polish conlang project but can work for any other language given the same structure sheet.
+
+The BOT is made to be run on Replit, hence the keepalive.py file.
 # Sheet structure
 ![image](https://user-images.githubusercontent.com/85286463/135252138-7075e154-6925-47b1-a044-6875cd336b24.png)
 
